@@ -1,0 +1,4 @@
+/config/
+/.lando.yml
+/.env
+/vendor/
